@@ -1,2 +1,3 @@
-Projeto Clone Página da Appler
-Somente HTML e CSS
+- Projeto Clone Página da Apple
+
+- Somente HTML e CSS
